@@ -1,8 +1,9 @@
 print("hello world")
-x = 80
-y = 2
+x = 37
+y = 37
 print("x is " .. x)
 print("y is " .. y)
+print("sum is " .. x + y)
 if x > y then
     print("x is greater!")
 elseif x < y then
@@ -10,3 +11,4 @@ elseif x < y then
 else
     print("x and y are equal!")
 end
+print("I am going to be a computer some day!")
