@@ -1,6 +1,6 @@
 print("hello world")
-x = 11
-y = 37
+x = 80
+y = 2
 print("x is " .. x)
 print("y is " .. y)
 if x > y then
